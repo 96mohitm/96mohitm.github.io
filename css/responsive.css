@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    #homePic {
+        max-width: 45%;
+        border-radius: 55%;
+    }
+}
