@@ -1,1 +1,36 @@
-theme: jekyll-theme-hacker
+name: Mohit's Blog
+description: >
+    Mohit's Blog
+about: >
+    Mohit's blog.
+
+master_repo: false
+url: "https://96mohitm.github.io/"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+
+logo:             
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           Mohit's Blog
+  avatar:         "https://avatars0.githubusercontent.com/u/22797289?s=400&v=4"
+  email:          "96mohitm@gmail.com"
+  # Social networking links used in footer. Update and remove as you like.
+  # twitter: 
+  github: https://github.com/96mohitm
+  stackexchange: https://stackoverflow.com/users/8854980/mohit-musaddi
+  linkedin: https://www.linkedin.com/in/mohit-musaddi-9394ba145/
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
