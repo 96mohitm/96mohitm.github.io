@@ -12,7 +12,9 @@ I upload most of the code that I have written on the GitHub repo though some are
 
 I actively participate in online coding contest organized in CodeChef, CodeForces etc. I love to read about **Algorithms** and **Data Structure** and implement them. And currently started Machine Learning. In this blog, I will be sharing my experience and the new things which I will be learning on the way. 
 
-
+Contact Details:
+Email: 96mohitm at gmail dot com
+Phone: 9007578896
 
 <div class="pagination">
   {% if site.owner.linkedin %}
